@@ -3,11 +3,11 @@
 ## Install
 Installation is quite straightforward:
 
-```
-# cd /usr/local/src
-# git clone https://github.com/diego-vieira/csf-pre_post_sh.git
-# cd csf-pre_post_sh
-# sh install.sh
+```bash
+cd /usr/local/src
+git clone https://github.com/diego-vieira/csf-pre_post_sh.git
+cd csf-pre_post_sh
+sh install.sh
 ```
 
 ## User Feedback
